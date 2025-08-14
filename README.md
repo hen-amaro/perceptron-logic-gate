@@ -2,6 +2,9 @@
 
 Projeto simples de um perceptron, neurônio artificial que aprende a porta lógica AND.
 
+## Relatório
+O relatório deste projeto foi escrito em LaTeX e está disponível [aqui](./Perceptron__EN_.pdf).
+
 ## Sobre o Perceptron
 
 O perceptron é um modelo de neurônio artificial que realiza classificação binária. Ele calcula uma soma ponderada das entradas, adiciona um viés (bias) e aplica uma função de ativação (função degrau) para gerar uma saída binária.
